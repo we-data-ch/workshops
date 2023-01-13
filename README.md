@@ -38,18 +38,13 @@ Tuesday (12pm-13pm), 4 May 2023, UniMail M4050 [Zoom link (soon)](https://we-dat
 <!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
 
 
+<br>
+<br>
+<br>
 
 
 
 
-
-*Dataviz with R and ggplot2*. [Data Viz Workshop](https://we-data-ch.github.io/ggplot_basic/)
-
-This practical will teach you the basics of ggplot2.
-- Correlation: scatterplot and bubble plot
-- Distribution: histogram, density and boxplot.
-- Ranking: barplot, lollipop and treemap.
-- Evolution: line plot and area chart
 
 ## Workshops
 
