@@ -21,7 +21,7 @@ Tuesday (12pm-13pm), 7 March 2023, UniMail M3220 [Zoom link (soon)](https://we-d
 
 
 Tuesday (12pm-13pm), 4 April 2023, UniMail M3220 [Zoom link (soon)](https://we-data-ch.github.io/workshops/XXX)
-*Learn to host your RMarkdown reports and Shiny application for free on the web with R and GitHub or AWS* David Munoz Tord (We Data)
+*Learn to host your RMarkdown reports and Shiny application for free on the web with R and GitHub or Posit Connect* David Munoz Tord (We Data)
 <!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
 
 <br>
