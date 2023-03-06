@@ -7,13 +7,13 @@ Moreover, if you are interested in the project don’t hesitate to share your st
 ## R Lunches 
 
 
-Tuesday (12pm-13pm), 28 February 2023, UniMail TBD [Zoom link (soon)](https://we-data-ch.github.io/workshops/XXX)
+Tuesday (12pm-13pm), 28 February 2023, UniMail TBD 
 *Using vim with R* - Fabrice Hategekimana (University of Geneva)
 <!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
 
 <br>
 
-Tuesday (12pm-13pm), 7 March 2023, UniMail M3220 [Zoom link (soon)](https://we-data-ch.github.io/workshops/XXX)
+Tuesday (12pm-13pm), 7 March 2023, UniMail M3220 [Zoom link ](https://unige.zoom.us/j/8578069125)
 *Beautiful, easy-to-use, highly interactive data visualization with R: Leveraging Apache ECharts* Jean Philippe Coene (Opifex)
 <!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
 
