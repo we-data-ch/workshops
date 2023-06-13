@@ -13,14 +13,14 @@ Tuesday (12pm-13pm), 28 February 2023, UniMail TBD
 
 <br>
 
-Tuesday (12pm-13pm), 7 March 2023, UniMail M3220 [Zoom link ](https://unige.zoom.us/j/8578069125)
+Tuesday (12pm-13pm), 7 March 2023, UniMail M3220 [Recording](https://unige.zoom.us/rec/share/4Udk3_8-brGTc9EI5icY3wks4XjaSUC5c7DqpgRiAaD3y5CJZHxgi_Ep2L2g7-pd.J-w8Q7QDb3qECWCr)
 *Beautiful, easy-to-use, highly interactive data visualization with R: Leveraging Apache ECharts* Jean Philippe Coene (Opifex)
 <!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
 
 <br>
 
 
-Tuesday (12pm-13pm), 4 April 2023, UniMail M3220 [Zoom link (soon)]()
+Tuesday (12pm-13pm), 4 April 2023, UniMail M3220 [Recroding](https://unige.zoom.us/rec/share/bmPWK9YqdK9FI74DtVnhEgaca8isNWNkjwxjVP2TeRJ_TnRsRp3HpRb5DFuYQZXO.hBVyShgZ9SLyqESP)
 *Deploy Your R Code* David Munoz Tord (We Data)
 [Slides](https://we-data-ch.github.io/Web_Deployment_With_R/R-Lunch) -->
 
